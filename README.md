@@ -1,0 +1,1 @@
+E-commerce Website — A full-stack web application built using Python and Django that allows users to browse products, manage shopping carts, and place orders online. The system includes secure user authentication, product management features, and a responsive interface developed with HTML, CSS, and JavaScript.
